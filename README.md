@@ -7,5 +7,5 @@ This will be the first exercise
 1. Aryan
 2. Pratiksha
 3. Satej
-4. Parag
+4. Parag Patkulkar
 5. Vaishnavi
